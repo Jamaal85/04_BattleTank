@@ -4,6 +4,6 @@ An open world for head-to-head tank fight with simple AI, terrain and advanced c
 
 ## Lecture List
 * BT01 - Intro, Notes and Assets
-
+* BT02 - Game Design Documents (GDD)
 
 
